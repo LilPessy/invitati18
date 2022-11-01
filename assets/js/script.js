@@ -5,7 +5,8 @@ let invitati = [
     cognome: "Abbaticchio",
     tipo: "amico",
     eta: "adulto",
-    conferma: false,
+    conferma: true,
+    intolleranze:""
   },
   {
     id: 2,
@@ -13,7 +14,8 @@ let invitati = [
     cognome: "Cilla",
     tipo: "amico",
     eta: "adulto",
-    conferma: false,
+    conferma: true,
+    intolleranze:""
   },
   {
     id: 3,
@@ -22,6 +24,7 @@ let invitati = [
     tipo: "amico",
     eta: "adulto",
     conferma: false,
+    intolleranze:""
   },
   {
     id: 4,
@@ -29,7 +32,8 @@ let invitati = [
     cognome: "Gentile",
     tipo: "amico",
     eta: "adulto",
-    conferma: false,
+    conferma: true,
+    intolleranze:""
   },
   {
     id: 5,
@@ -37,7 +41,8 @@ let invitati = [
     cognome: "Chieppa",
     tipo: "amico",
     eta: "adulto",
-    conferma: false,
+    conferma: true,
+    intolleranze:""
   },
   {
     id: 6,
@@ -46,6 +51,7 @@ let invitati = [
     tipo: "amico",
     eta: "adulto",
     conferma: false,
+    intolleranze:""
   },
   {
     id: 7,
@@ -53,7 +59,8 @@ let invitati = [
     cognome: "Amoruso",
     tipo: "amico",
     eta: "adulto",
-    conferma: false,
+    conferma: true,
+    intolleranze:""
   },
   {
     id: 8,
@@ -61,7 +68,8 @@ let invitati = [
     cognome: "Marzullo",
     tipo: "amico",
     eta: "adulto",
-    conferma: false,
+    conferma: true,
+    intolleranze:""
   },
   {
     id: 9,
@@ -69,7 +77,8 @@ let invitati = [
     cognome: "Laforgia",
     tipo: "amico",
     eta: "adulto",
-    conferma: false,
+    conferma: true,
+    intolleranze:"glutine"
   },
   {
     id: 10,
@@ -78,6 +87,7 @@ let invitati = [
     tipo: "amico",
     eta: "adulto",
     conferma: false,
+    intolleranze:""
   },
   {
     id: 11,
@@ -85,7 +95,8 @@ let invitati = [
     cognome: "Gallo",
     tipo: "amico",
     eta: "adulto",
-    conferma: false,
+    conferma: true,
+    intolleranze:""
   },
   {
     id: 12,
@@ -93,7 +104,8 @@ let invitati = [
     cognome: "Deliso",
     tipo: "amico",
     eta: "adulto",
-    conferma: false,
+    conferma: true,
+    intolleranze:""
   },
   {
     id: 13,
@@ -102,6 +114,7 @@ let invitati = [
     tipo: "amico",
     eta: "adulto",
     conferma: false,
+    intolleranze:""
   },
   {
     id: 14,
@@ -109,7 +122,8 @@ let invitati = [
     cognome: "Gerardi",
     tipo: "amico",
     eta: "adulto",
-    conferma: false,
+    conferma: true,
+    intolleranze:""
   },
   {
     id: 15,
@@ -118,6 +132,7 @@ let invitati = [
     tipo: "amico",
     eta: "adulto",
     conferma: false,
+    intolleranze:""
   },
   {
     id: 16,
@@ -126,6 +141,7 @@ let invitati = [
     tipo: "amico",
     eta: "adulto",
     conferma: false,
+    intolleranze:""
   },
   {
     id: 17,
@@ -133,7 +149,8 @@ let invitati = [
     cognome: "Romito",
     tipo: "amico",
     eta: "adulto",
-    conferma: false,
+    conferma: true,
+    intolleranze:""
   },
   {
     id: 18,
@@ -142,6 +159,7 @@ let invitati = [
     tipo: "amico",
     eta: "adulto",
     conferma: false,
+    intolleranze:""
   },
   {
     id: 19,
@@ -149,7 +167,8 @@ let invitati = [
     cognome: "Calamita",
     tipo: "amico",
     eta: "adulto",
-    conferma: false,
+    conferma: true,
+    intolleranze:""
   },
   {
     id: 20,
@@ -158,6 +177,7 @@ let invitati = [
     tipo: "amico",
     eta: "adulto",
     conferma: false,
+    intolleranze:""
   },
   {
     id: 21,
@@ -166,6 +186,7 @@ let invitati = [
     tipo: "amico",
     eta: "adulto",
     conferma: false,
+    intolleranze:"lattosio"
   },
   {
     id: 22,
@@ -173,7 +194,8 @@ let invitati = [
     cognome: "Manganiello",
     tipo: "amico",
     eta: "adulto",
-    conferma: false,
+    conferma: true,
+    intolleranze:""
   },
   {
     id: 23,
@@ -181,7 +203,8 @@ let invitati = [
     cognome: "Menolascina",
     tipo: "amico",
     eta: "adulto",
-    conferma: false,
+    conferma: true,
+    intolleranze:""
   },
   {
     id: 24,
@@ -190,6 +213,7 @@ let invitati = [
     tipo: "amico",
     eta: "adulto",
     conferma: false,
+    intolleranze:""
   },
   {
     id: 25,
@@ -198,6 +222,7 @@ let invitati = [
     tipo: "amico",
     eta: "adulto",
     conferma: false,
+    intolleranze:""
   },
   {
     id: 26,
@@ -205,7 +230,8 @@ let invitati = [
     cognome: "Morgese",
     tipo: "amico",
     eta: "adulto",
-    conferma: false,
+    conferma: true,
+    intolleranze:""
   },
   {
     id: 27,
@@ -214,6 +240,7 @@ let invitati = [
     tipo: "amico",
     eta: "adulto",
     conferma: false,
+    intolleranze:""
   },
   {
     id: 28,
@@ -222,6 +249,7 @@ let invitati = [
     tipo: "amico",
     eta: "adulto",
     conferma: false,
+    intolleranze:""
   },
   {
     id: 29,
@@ -230,6 +258,7 @@ let invitati = [
     tipo: "amico",
     eta: "adulto",
     conferma: false,
+    intolleranze:""
   },
   {
     id: 30,
@@ -237,7 +266,8 @@ let invitati = [
     cognome: "Chiarappa",
     tipo: "amico",
     eta: "adulto",
-    conferma: false,
+    conferma: true,
+    intolleranze:""
   },
   {
     id: 31,
@@ -246,6 +276,7 @@ let invitati = [
     tipo: "amico",
     eta: "adulto",
     conferma: false,
+    intolleranze:""
   },
   {
     id: 32,
@@ -253,7 +284,8 @@ let invitati = [
     cognome: "Landriscina",
     tipo: "amico",
     eta: "adulto",
-    conferma: false,
+    conferma: true,
+    intolleranze:""
   },
   {
     id: 33,
@@ -262,6 +294,7 @@ let invitati = [
     tipo: "amico",
     eta: "adulto",
     conferma: false,
+    intolleranze:""
   },
   {
     id: 34,
@@ -269,7 +302,8 @@ let invitati = [
     cognome: "Losacco",
     tipo: "amico",
     eta: "adulto",
-    conferma: false,
+    conferma: true,
+    intolleranze:""
   },
   {
     id: 35,
@@ -278,6 +312,7 @@ let invitati = [
     tipo: "amico",
     eta: "adulto",
     conferma: false,
+    intolleranze:""
   },
   {
     id: 36,
@@ -286,6 +321,7 @@ let invitati = [
     tipo: "amico",
     eta: "adulto",
     conferma: false,
+    intolleranze:""
   },
   {
     id: 37,
@@ -294,6 +330,7 @@ let invitati = [
     tipo: "amico",
     eta: "adulto",
     conferma: false,
+    intolleranze:""
   },
   {
     id: 38,
@@ -302,6 +339,7 @@ let invitati = [
     tipo: "amico",
     eta: "adulto",
     conferma: false,
+    intolleranze:""
   },
   {
     id: 39,
@@ -310,6 +348,7 @@ let invitati = [
     tipo: "amico",
     eta: "adulto",
     conferma: false,
+    intolleranze:""
   },
   {
     id: 40,
@@ -318,6 +357,7 @@ let invitati = [
     tipo: "amico",
     eta: "adulto",
     conferma: false,
+    intolleranze:""
   },
   {
     id: 41,
@@ -326,6 +366,7 @@ let invitati = [
     tipo: "amico",
     eta: "adulto",
     conferma: false,
+    intolleranze:""
   },
   {
     id: 42,
@@ -334,6 +375,7 @@ let invitati = [
     tipo: "amico",
     eta: "adulto",
     conferma: false,
+    intolleranze:""
   },
   {
     id: 43,
@@ -342,6 +384,7 @@ let invitati = [
     tipo: "amico",
     eta: "adulto",
     conferma: false,
+    intolleranze:""
   },
   {
     id: 44,
@@ -350,6 +393,7 @@ let invitati = [
     tipo: "amico",
     eta: "adulto",
     conferma: false,
+    intolleranze:""
   },
   {
     id: 45,
@@ -358,6 +402,7 @@ let invitati = [
     tipo: "amico",
     eta: "adulto",
     conferma: false,
+    intolleranze:""
   },
   {
     id: 46,
@@ -365,7 +410,8 @@ let invitati = [
     cognome: "Romano",
     tipo: "amico",
     eta: "adulto",
-    conferma: false,
+    conferma: true,
+    intolleranze:""
   },
   {
     id: 47,
@@ -374,6 +420,7 @@ let invitati = [
     tipo: "amico",
     eta: "adulto",
     conferma: false,
+    intolleranze:""
   },
   {
     id: 48,
@@ -382,6 +429,7 @@ let invitati = [
     tipo: "amico",
     eta: "adulto",
     conferma: false,
+    intolleranze:""
   },
   {
     id: 49,
@@ -390,6 +438,7 @@ let invitati = [
     tipo: "amico",
     eta: "adulto",
     conferma: true,
+    intolleranze:""
   },
   {
     id: 50,
@@ -398,6 +447,7 @@ let invitati = [
     tipo: "amico",
     eta: "adulto",
     conferma: false,
+    intolleranze:""
   },
   {
     id: 51,
@@ -406,6 +456,7 @@ let invitati = [
     tipo: "amico",
     eta: "adulto",
     conferma: false,
+    intolleranze:""
   },
   {
     id: 52,
@@ -414,6 +465,7 @@ let invitati = [
     tipo: "amico",
     eta: "adulto",
     conferma: false,
+    intolleranze:""
   },
   {
     id: 53,
@@ -422,6 +474,7 @@ let invitati = [
     tipo: "io",
     eta: "adulto",
     conferma: true,
+    intolleranze:""
   },
   {
     id: 54,
@@ -430,6 +483,7 @@ let invitati = [
     tipo: "parente",
     eta: "adulto",
     conferma: true,
+    intolleranze:""
   },
   {
     id: 55,
@@ -438,6 +492,7 @@ let invitati = [
     tipo: "parente",
     eta: "adulto",
     conferma: true,
+    intolleranze:""
   },
   {
     id: 56,
@@ -446,6 +501,7 @@ let invitati = [
     tipo: "parente",
     eta: "adulto",
     conferma: true,
+    intolleranze:""
   },
   {
     id: 57,
@@ -454,6 +510,7 @@ let invitati = [
     tipo: "parente",
     eta: "bambino",
     conferma: true,
+    intolleranze:""
   },
   {
     id: 58,
@@ -462,6 +519,7 @@ let invitati = [
     tipo: "parente",
     eta: "bambino",
     conferma: true,
+    intolleranze:""
   },
   {
     id: 59,
@@ -470,6 +528,7 @@ let invitati = [
     tipo: "parente",
     eta: "adulto",
     conferma: true,
+    intolleranze:""
   },
   {
     id: 60,
@@ -478,6 +537,7 @@ let invitati = [
     tipo: "parente",
     eta: "adulto",
     conferma: true,
+    intolleranze:""
   },
   {
     id: 61,
@@ -486,6 +546,7 @@ let invitati = [
     tipo: "parente",
     eta: "adulto",
     conferma: true,
+    intolleranze:""
   },
   {
     id: 62,
@@ -494,6 +555,7 @@ let invitati = [
     tipo: "parente",
     eta: "adulto",
     conferma: true,
+    intolleranze:""
   },
   {
     id: 63,
@@ -502,6 +564,7 @@ let invitati = [
     tipo: "parente",
     eta: "adulto",
     conferma: false,
+    intolleranze:""
   },
   {
     id: 64,
@@ -510,6 +573,7 @@ let invitati = [
     tipo: "parente",
     eta: "adulto",
     conferma: false,
+    intolleranze:""
   },
   {
     id: 65,
@@ -518,6 +582,7 @@ let invitati = [
     tipo: "parente",
     eta: "adulto",
     conferma: false,
+    intolleranze:""
   },
   {
     id: 66,
@@ -526,6 +591,7 @@ let invitati = [
     tipo: "parente",
     eta: "bambino",
     conferma: false,
+    intolleranze:""
   },
   {
     id: 67,
@@ -534,6 +600,7 @@ let invitati = [
     tipo: "parente",
     eta: "bambino",
     conferma: false,
+    intolleranze:""
   },
   {
     id: 68,
@@ -542,6 +609,7 @@ let invitati = [
     tipo: "parente",
     eta: "adulto",
     conferma: false,
+    intolleranze:""
   },
   {
     id: 69,
@@ -550,6 +618,7 @@ let invitati = [
     tipo: "parente",
     eta: "adulto",
     conferma: false,
+    intolleranze:""
   },
   {
     id: 70,
@@ -558,6 +627,7 @@ let invitati = [
     tipo: "parente",
     eta: "bambino",
     conferma: false,
+    intolleranze:""
   },
   {
     id: 71,
@@ -566,6 +636,7 @@ let invitati = [
     tipo: "parente",
     eta: "bambino",
     conferma: false,
+    intolleranze:""
   },
   {
     id: 72,
@@ -574,6 +645,7 @@ let invitati = [
     tipo: "parente",
     eta: "adulto",
     conferma: false,
+    intolleranze:""
   },
   {
     id: 73,
@@ -582,6 +654,7 @@ let invitati = [
     tipo: "parente",
     eta: "adulto",
     conferma: false,
+    intolleranze:""
   },
   {
     id: 74,
@@ -590,6 +663,7 @@ let invitati = [
     tipo: "parente",
     eta: "adulto",
     conferma: false,
+    intolleranze:""
   },
   {
     id: 75,
@@ -598,6 +672,7 @@ let invitati = [
     tipo: "amico",
     eta: "adulto",
     conferma: false,
+    intolleranze:""
   },
   {
     id: 76,
@@ -606,6 +681,7 @@ let invitati = [
     tipo: "amico",
     eta: "adulto",
     conferma: false,
+    intolleranze:""
   },
   {
     id: 77,
@@ -614,6 +690,7 @@ let invitati = [
     tipo: "amico",
     eta: "adulto",
     conferma: false,
+    intolleranze:""
   },
   {
     id: 78,
@@ -622,6 +699,7 @@ let invitati = [
     tipo: "amico",
     eta: "adulto",
     conferma: false,
+    intolleranze:""
   },
   {
     id: 79,
@@ -630,6 +708,7 @@ let invitati = [
     tipo: "amico",
     eta: "adulto",
     conferma: false,
+    intolleranze:""
   },
   {
     id: 80,
@@ -638,6 +717,7 @@ let invitati = [
     tipo: "amico",
     eta: "adulto",
     conferma: false,
+    intolleranze:""
   },
 ];
 
@@ -728,7 +808,6 @@ tutto.addEventListener("click", (e)=>{
 
         let h4 = document.createElement("h4")
         h4.innerHTML = `${i+1}. ${invitati[i].nome} ${invitati[i].cognome}`
-
         let span = document.createElement("span")
         span.innerHTML = `${invitati[i].tipo},${invitati[i].eta}`
 
@@ -776,9 +855,9 @@ adulti.addEventListener("click", (e)=>{
 
             let h4 = document.createElement("h4")
             h4.innerHTML = `${j+1}. ${invitati[i].nome} ${invitati[i].cognome}`
-
             let span = document.createElement("span")
-            span.innerHTML = `${invitati[i].tipo},${invitati[i].eta}`
+            span.innerHTML = `${invitati[i].tipo
+            },${invitati[i].eta}`
 
             div.appendChild(h4)
             div.appendChild(span)
@@ -823,7 +902,6 @@ bambini.addEventListener("click", (e)=>{
 
             let h4 = document.createElement("h4")
             h4.innerHTML = `${j+1}. ${invitati[i].nome} ${invitati[i].cognome}`
-
             let span = document.createElement("span")
             span.innerHTML = `${invitati[i].tipo},${invitati[i].eta}`
 
@@ -872,9 +950,9 @@ amici.addEventListener("click", (e)=>{
 
             let h4 = document.createElement("h4")
             h4.innerHTML = `${j+1}. ${invitati[i].nome} ${invitati[i].cognome}`
-
             let span = document.createElement("span")
-            span.innerHTML = `${invitati[i].tipo},${invitati[i].eta}`
+            span.innerHTML = `${invitati[i].tipo
+            },${invitati[i].eta}`
 
             div.appendChild(h4)
             div.appendChild(span)
@@ -921,7 +999,6 @@ parenti.addEventListener("click", (e)=>{
 
             let h4 = document.createElement("h4")
             h4.innerHTML = `${j+1}. ${invitati[i].nome} ${invitati[i].cognome}`
-
             let span = document.createElement("span")
             span.innerHTML = `${invitati[i].tipo},${invitati[i].eta}`
 
@@ -970,9 +1047,9 @@ presenti.addEventListener("click", (e)=>{
 
             let h4 = document.createElement("h4")
             h4.innerHTML = `${j+1}. ${invitati[i].nome} ${invitati[i].cognome}`
-
             let span = document.createElement("span")
-            span.innerHTML = `${invitati[i].tipo},${invitati[i].eta}`
+            span.innerHTML = `${invitati[i].tipo
+            },${invitati[i].eta}`
 
             div.appendChild(h4)
             div.appendChild(span)
@@ -1019,7 +1096,6 @@ assenti.addEventListener("click", (e)=>{
 
             let h4 = document.createElement("h4")
             h4.innerHTML = `${j+1}. ${invitati[i].nome} ${invitati[i].cognome}`
-
             let span = document.createElement("span")
             span.innerHTML = `${invitati[i].tipo},${invitati[i].eta}`
 
@@ -1038,3 +1114,43 @@ assenti.addEventListener("click", (e)=>{
 
     section.appendChild(ol)
 })
+
+
+let intolleranze = document.querySelector(".intolleranze");
+
+intolleranze.addEventListener("click", (e) => {
+  let section = document.querySelector(".list");
+  let del = document.querySelector(".ol");
+  del.remove();
+  let ol = document.createElement("div");
+  ol.classList.add("ol");
+  let j = 0;
+  for (let i = 0; i < invitati.length; i++) {
+    if (invitati[i].intolleranze != "") {
+      let li = document.createElement("div");
+      li.classList.add("li");
+
+      let div = document.createElement("div");
+      div.classList.add("desc");
+
+      let h4 = document.createElement("h4");
+      h4.innerHTML = `${j + 1}. ${invitati[i].nome} ${invitati[i].cognome}`;
+
+      let span = document.createElement("span");
+      span.innerHTML = invitati[i].intolleranze;
+
+      div.appendChild(h4);
+      div.appendChild(span);
+
+      let icon = createIcon(invitati[i].conferma);
+
+      li.appendChild(div);
+      li.appendChild(icon);
+
+      ol.appendChild(li);
+      j++;
+    }
+  }
+
+  section.appendChild(ol);
+});
