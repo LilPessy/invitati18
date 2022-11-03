@@ -23,7 +23,7 @@ let invitati = [
     cognome: "Battista",
     tipo: "amico",
     eta: "adulto",
-    conferma: false,
+    conferma: true,
     intolleranze:""
   },
   {
@@ -140,7 +140,7 @@ let invitati = [
     cognome: "Angiulli",
     tipo: "amico",
     eta: "adulto",
-    conferma: false,
+    conferma: true,
     intolleranze:""
   },
   {
@@ -176,7 +176,7 @@ let invitati = [
     cognome: "Amoruso",
     tipo: "amico",
     eta: "adulto",
-    conferma: false,
+    conferma: true,
     intolleranze:""
   },
   {
@@ -185,7 +185,7 @@ let invitati = [
     cognome: "Petralla",
     tipo: "amico",
     eta: "adulto",
-    conferma: false,
+    conferma: true,
     intolleranze:"lattosio"
   },
   {
@@ -212,7 +212,7 @@ let invitati = [
     cognome: "Vernone",
     tipo: "amico",
     eta: "adulto",
-    conferma: false,
+    conferma: true,
     intolleranze:""
   },
   {
@@ -293,7 +293,7 @@ let invitati = [
     cognome: "Ferrara",
     tipo: "amico",
     eta: "adulto",
-    conferma: false,
+    conferma: true,
     intolleranze:""
   },
   {
@@ -311,7 +311,7 @@ let invitati = [
     cognome: "Ranieri",
     tipo: "amico",
     eta: "adulto",
-    conferma: false,
+    conferma: true,
     intolleranze:""
   },
   {
@@ -383,7 +383,7 @@ let invitati = [
     cognome: "Guizzardi",
     tipo: "amico",
     eta: "adulto",
-    conferma: false,
+    conferma: true,
     intolleranze:""
   },
   {
@@ -698,7 +698,7 @@ let invitati = [
     cognome: "Servadio",
     tipo: "amico",
     eta: "adulto",
-    conferma: false,
+    conferma: true,
     intolleranze:""
   },
   {
@@ -707,7 +707,7 @@ let invitati = [
     cognome: "Romagnuolo",
     tipo: "amico",
     eta: "adulto",
-    conferma: false,
+    conferma: true,
     intolleranze:""
   },
   {
