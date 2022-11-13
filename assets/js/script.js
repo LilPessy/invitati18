@@ -60,7 +60,7 @@ let invitati = [
     tipo: "amico",
     eta: "adulto",
     conferma: true,
-    intolleranze:""
+    intolleranze:"pesca, albicocca, fave"
   },
   {
     id: 8,
@@ -86,7 +86,7 @@ let invitati = [
     cognome: "Merra",
     tipo: "amico",
     eta: "adulto",
-    conferma: false,
+    conferma: true,
     intolleranze:""
   },
   {
@@ -158,7 +158,7 @@ let invitati = [
     cognome: "Gianvecchio",
     tipo: "amico",
     eta: "adulto",
-    conferma: false,
+    conferma: true,
     intolleranze:""
   },
   {
@@ -221,7 +221,7 @@ let invitati = [
     cognome: "Squeo",
     tipo: "amico",
     eta: "adulto",
-    conferma: false,
+    conferma: true,
     intolleranze:""
   },
   {
@@ -257,7 +257,7 @@ let invitati = [
     cognome: "Rotunno",
     tipo: "amico",
     eta: "adulto",
-    conferma: false,
+    conferma: true,
     intolleranze:""
   },
   {
@@ -275,7 +275,7 @@ let invitati = [
     cognome: "Caputo",
     tipo: "amico",
     eta: "adulto",
-    conferma: false,
+    conferma: true,
     intolleranze:""
   },
   {
@@ -320,7 +320,7 @@ let invitati = [
     cognome: "Albanese",
     tipo: "amico",
     eta: "adulto",
-    conferma: false,
+    conferma: true,
     intolleranze:""
   },
   {
@@ -338,7 +338,7 @@ let invitati = [
     cognome: "D'Elia",
     tipo: "amico",
     eta: "adulto",
-    conferma: false,
+    conferma: true,
     intolleranze:""
   },
   {
@@ -347,7 +347,7 @@ let invitati = [
     cognome: "D'Elia",
     tipo: "amico",
     eta: "adulto",
-    conferma: false,
+    conferma: true,
     intolleranze:""
   },
   {
@@ -356,7 +356,7 @@ let invitati = [
     cognome: "Carmosino",
     tipo: "amico",
     eta: "adulto",
-    conferma: false,
+    conferma: true,
     intolleranze:""
   },
   {
@@ -365,7 +365,7 @@ let invitati = [
     cognome: "Minnielli",
     tipo: "amico",
     eta: "adulto",
-    conferma: false,
+    conferma: false,//?
     intolleranze:""
   },
   {
@@ -392,7 +392,7 @@ let invitati = [
     cognome: "Manna",
     tipo: "amico",
     eta: "adulto",
-    conferma: false,
+    conferma: true,
     intolleranze:""
   },
   {
@@ -401,7 +401,7 @@ let invitati = [
     cognome: "Caroli",
     tipo: "amico",
     eta: "adulto",
-    conferma: false,
+    conferma: true,
     intolleranze:""
   },
   {
@@ -419,7 +419,7 @@ let invitati = [
     cognome: "De Sandi",
     tipo: "amico",
     eta: "adulto",
-    conferma: false,
+    conferma: true,
     intolleranze:""
   },
   {
@@ -428,7 +428,7 @@ let invitati = [
     cognome: "Battista",
     tipo: "amico",
     eta: "adulto",
-    conferma: false,
+    conferma: true,
     intolleranze:""
   },
   {
@@ -455,7 +455,7 @@ let invitati = [
     cognome: "Dellino",
     tipo: "amico",
     eta: "adulto",
-    conferma: false,
+    conferma: false,//?
     intolleranze:""
   },
   {
@@ -563,7 +563,7 @@ let invitati = [
     cognome: "Strambelli",
     tipo: "parente",
     eta: "adulto",
-    conferma: false,
+    conferma: true,
     intolleranze:""
   },
   {
@@ -572,7 +572,7 @@ let invitati = [
     cognome: "Petti",
     tipo: "parente",
     eta: "adulto",
-    conferma: false,
+    conferma: true,
     intolleranze:""
   },
   {
@@ -581,7 +581,7 @@ let invitati = [
     cognome: "Petti",
     tipo: "parente",
     eta: "adulto",
-    conferma: false,
+    conferma: true,
     intolleranze:""
   },
   {
@@ -590,7 +590,7 @@ let invitati = [
     cognome: "Petti",
     tipo: "parente",
     eta: "bambino",
-    conferma: false,
+    conferma: true,
     intolleranze:""
   },
   {
@@ -599,7 +599,7 @@ let invitati = [
     cognome: "Petti",
     tipo: "parente",
     eta: "bambino",
-    conferma: false,
+    conferma: true,
     intolleranze:""
   },
   {
@@ -608,7 +608,7 @@ let invitati = [
     cognome: "Petti",
     tipo: "parente",
     eta: "adulto",
-    conferma: false,
+    conferma: true,
     intolleranze:""
   },
   {
@@ -617,7 +617,7 @@ let invitati = [
     cognome: "Putignano",
     tipo: "parente",
     eta: "adulto",
-    conferma: false,
+    conferma: true,
     intolleranze:""
   },
   {
@@ -626,7 +626,7 @@ let invitati = [
     cognome: "Putignano",
     tipo: "parente",
     eta: "bambino",
-    conferma: false,
+    conferma: true,
     intolleranze:""
   },
   {
@@ -635,7 +635,7 @@ let invitati = [
     cognome: "Putignano",
     tipo: "parente",
     eta: "bambino",
-    conferma: false,
+    conferma: true,
     intolleranze:""
   },
   {
@@ -662,7 +662,7 @@ let invitati = [
     cognome: "Petti",
     tipo: "parente",
     eta: "adulto",
-    conferma: false,
+    conferma: true,
     intolleranze:""
   },
   {
@@ -671,7 +671,7 @@ let invitati = [
     cognome: "Catania",
     tipo: "amico",
     eta: "adulto",
-    conferma: false,
+    conferma: true,
     intolleranze:""
   },
   {
@@ -689,7 +689,7 @@ let invitati = [
     cognome: "Padolecchia",
     tipo: "amico",
     eta: "adulto",
-    conferma: false,
+    conferma: true,
     intolleranze:""
   },
   {
@@ -716,7 +716,7 @@ let invitati = [
     cognome: "Clarizio",
     tipo: "amico",
     eta: "adulto",
-    conferma: false,
+    conferma: true,
     intolleranze:""
   },
 ];
@@ -928,11 +928,11 @@ bambini.addEventListener("click", (e)=>{
 let amici = document.querySelector(".amici")
 let nAmici = 0
 for(let i = 0; i < invitati.length; i++){
-    if(invitati[i].tipo === "amico"){
+    if(invitati[i].tipo === "amico" && invitati[i].conferma==true){
         nAmici++
     }
 }
-amici.innerHTML += `(${nAmici})`
+amici.innerHTML += `(${nAmici} confermati)`
 amici.addEventListener("click", (e)=>{
     let section = document.querySelector(".list")
     let del = document.querySelector(".ol")
@@ -977,11 +977,11 @@ amici.addEventListener("click", (e)=>{
 let parenti = document.querySelector(".parenti")
 let nParenti = 0
 for(let i = 0; i < invitati.length; i++){
-    if(invitati[i].tipo === "parente"){
+    if(invitati[i].tipo === "parente" && invitati[i].conferma == true){
         nParenti++
     }
 }
-parenti.innerHTML += `(${nParenti})`
+parenti.innerHTML += `(${nParenti} confermati)`
 parenti.addEventListener("click", (e)=>{
     let section = document.querySelector(".list")
     let del = document.querySelector(".ol")
